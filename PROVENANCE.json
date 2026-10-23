@@ -1,0 +1,14 @@
+{
+  "origin": "NEWLY_IMPLEMENTED_FROM_PLAN_DESCRIPTION_NOT_RECOVERED_UPSTREAM",
+  "owner_rights_confirmed": false,
+  "plan_artifact_paths": [],
+  "prototype_operation": "nondestruction",
+  "public_release_approved": false,
+  "schema": "invariant.v7.new_candidate.v1",
+  "source_claim_gate": "Tehdit modeli, bozulma oranı, fallback maliyeti, standart yöntemler; F01 ile aynı deney sayılmaz.",
+  "source_sha256_verified_by_this_builder": false,
+  "synthetic_fixture_only": true,
+  "target_code": "G25",
+  "test_coverage": "local_synthetic_unit_tests_only",
+  "title": "afc-artifact-nondestruction"
+}

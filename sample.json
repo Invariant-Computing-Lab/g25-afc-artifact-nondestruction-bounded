@@ -1,0 +1,9 @@
+{
+  "after": {
+    "a": "hash1",
+    "b": "hash2"
+  },
+  "before": {
+    "a": "hash1"
+  }
+}
